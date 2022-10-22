@@ -1,0 +1,39 @@
+{
+    "name": "CubeChai #3",
+    "description": "This is CubeChai",
+    "image": "https://github.com/lykwds/nfttest2/blob/main/cubetest/3.png",
+    "attributes": [
+        {
+            "trait_type": "Eyes",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Wooden"
+        },
+        {
+            "trait_type": "Bracelet",
+            "value": "Shovel"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "No Headwear"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Mask",
+            "value": "No Mask"
+        },
+        {
+            "trait_type": "Chain",
+            "value": "No Chain"
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "No Glasses"
+        }
+    ]
+}
